@@ -21,7 +21,8 @@ class InputTaskTests: XCTestCase {
 	}
 
 	func testTapAllInputs() {
-		
+		TodoPage()
+			.tapOne()
 	}
 }
 

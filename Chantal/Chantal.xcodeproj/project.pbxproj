@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		124997562DDCB138005A640B /* BaseTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 124997542DDCB138005A640B /* BaseTest.swift */; };
 		124997592DDCB13F005A640B /* InputTaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 124997572DDCB13F005A640B /* InputTaskTests.swift */; };
+		1249975D2DDCB7BD005A640B /* TodoPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1249975C2DDCB7BD005A640B /* TodoPage.swift */; };
 		12D2FD2D2D3E837D002B1515 /* ChantalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12D2FD2C2D3E837D002B1515 /* ChantalUITests.swift */; };
 		12D2FD2F2D3E837D002B1515 /* ChantalUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12D2FD2E2D3E837D002B1515 /* ChantalUITestsLaunchTests.swift */; };
 		EC556544214D78A8003383B8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC556543214D78A8003383B8 /* AppDelegate.swift */; };
@@ -34,6 +35,7 @@
 /* Begin PBXFileReference section */
 		124997542DDCB138005A640B /* BaseTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseTest.swift; sourceTree = "<group>"; };
 		124997572DDCB13F005A640B /* InputTaskTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputTaskTests.swift; sourceTree = "<group>"; };
+		1249975C2DDCB7BD005A640B /* TodoPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoPage.swift; sourceTree = "<group>"; };
 		12D2FD2A2D3E837D002B1515 /* ChantalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChantalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		12D2FD2C2D3E837D002B1515 /* ChantalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChantalUITests.swift; sourceTree = "<group>"; };
 		12D2FD2E2D3E837D002B1515 /* ChantalUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChantalUITestsLaunchTests.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				124997542DDCB138005A640B /* BaseTest.swift */,
+				1249975C2DDCB7BD005A640B /* TodoPage.swift */,
 			);
 			path = PageObjects;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				124997592DDCB13F005A640B /* InputTaskTests.swift in Sources */,
 				124997562DDCB138005A640B /* BaseTest.swift in Sources */,
 				12D2FD2D2D3E837D002B1515 /* ChantalUITests.swift in Sources */,
+				1249975D2DDCB7BD005A640B /* TodoPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
